@@ -1,0 +1,61 @@
+1. OSN Admin
+
+         --- View all authorized users 
+
+	 -- view friend and req and res
+
+	 -- view all uses and give link to view post access controls to their friends 
+
+        --- View All users with weighted by trust value(vote) and view non trusted users(vote is 0)
+
+        --- View All trusted and non trusted user's post (vote is 0)
+
+	--- View All shared and not shared Posts and video posts with Votes and Reviews
+
+        --- View All posts with Vote in chart
+
+
+        --- View All Video posts with Vote in chart
+
+
+	--- View All users with weighted by trust value(vote) in chart
+
+
+       
+
+2. Users --- Register and Login
+         
+         --- View your Profile
+    
+         --- Search Friends
+       
+         --- View Friend Request and Response
+
+         --- View My Friends
+     
+        ---  Create Post data with Post name,Post Uses,Post Desc,Post Specility,Post Sesitive(Yes or No in drop box),Post Add Post Image.
+
+	 ---  Create Vidoe Clip Post data with Post name,Post Uses,Post Desc,Post Specility,Post Sesitive(Yes or No in drop box),Add Video Post. 
+
+        --- View all your friends and set Access Control(Select Image  or content or All) --- if image is given then should display image,uname,uses
+          
+         --- View all your Posts with votes and reviews and share to friends(view all post and give link to share option to all your friends).
+	
+        --- View all your Video Posts with votes and reviews and share to friends(view all Video post and give link to share option to all your friends).
+
+         --- View all your friends post and give reviews and Vote Option(increase one vote).
+
+
+         --- View all your friends Video post and give reviews and Vote Option(increase one vote).
+
+
+	 --- View all your friends(stakeholder) and give vote option to trust(select trust value 1 or 2 or 3 to vote your friend) for both image and video separatelly
+
+
+
+
+Note :: post Desc and Post Specility should be enc and dec
+
+
+           
+
